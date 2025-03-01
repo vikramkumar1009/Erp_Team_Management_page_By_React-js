@@ -1,3 +1,5 @@
+Note :-  To Run This Code You Need To Run A Command IN Terminal Npm install
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
